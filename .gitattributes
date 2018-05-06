@@ -1,3 +1,7 @@
 *.js linguist-language=Python
 *.css linguist-language=Python
 *.html linguist-language=Python
+*.zip linguist-language=Python
+*.rar linguist-language=Python
+*.tar linguist-language=Python
+*.gz linguist-language=Python
